@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6841'
     url: http://www.gutenberg.org/2009/agents/6841
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25258#Formosa-de-eerste-kolonie-van-JapanDe-Aarde-en-haar-Volken-1909
 gutenberg_issued: '2008-04-30'
 gutenberg_type: Text
 identifiers:
